@@ -1,4 +1,4 @@
-## group the following nouns by the article (a/an/no article) you would use with them
+#### group the following nouns by the article (a/an/no article) you would use with them
 
 - sandwich
 - driver
@@ -11,7 +11,7 @@
 - children
 - plum
 
-## complete the sentences with the necessary article (a/an/the/no article)
+#### complete the sentences with the necessary article (a/an/the/no article)
 
 - I like listening to [] music.
 - He's [] teacher and works at my school.
