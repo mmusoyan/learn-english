@@ -1,3 +1,3 @@
 # learn-english
 
-- english vocabulary and homework assignments
+- let's try to learn some english, shall we?
