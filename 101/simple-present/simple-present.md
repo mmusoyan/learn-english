@@ -32,5 +32,5 @@
 ### for third person singular form adds -s or -es to the end of the verb:
 - to cry:
   - He cries at movies.
-- to drink:
+- to make:
   - Anne makes cars.
