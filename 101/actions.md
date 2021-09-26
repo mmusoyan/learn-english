@@ -1,4 +1,4 @@
-## translate and learn these words
+### translate and learn these words
 
 - type
 - look
@@ -12,11 +12,12 @@
 - write
 - review
 - develop
+- run
 
-## match action with the correct group
+### match action with the correct group
 
 - actions done with your mouth
 - actions done with your hands
 - everything else
 
-## separate the ones you think could be used to talk about programming or related topics
+### separate the ones you think could be used to talk about programming or related topics
