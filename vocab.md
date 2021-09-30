@@ -1,1 +1,2 @@
-siblings - sister/brother, other children of my parents
+ - siblings - other children of my parents
+ - apartment - квартира
