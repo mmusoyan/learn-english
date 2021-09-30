@@ -1,8 +1,18 @@
 ## use the present simple to talk about:
 - something that is true in the present:
   - I'm thirty years old.
+  - Am I thirty years old?
+  - I am not thirty years old.
+
+
   - I'm a student.
+  - Am I a student?
+  - I am not a student.
+
+
   - He lives in London.
+  - Does he live in London?
+  - He does not live in London.
 - something that happens regularly in the present:
   - I play football every weekend.
   - He drinks coffee every morning.
