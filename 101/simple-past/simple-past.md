@@ -1,0 +1,73 @@
+## the past tense is usually formed by adding –ed to the verb:
+- called
+- liked
+- wanted
+- worked
+
+#### irregular verbs form past tense differently:
+- be
+- begin
+- break
+- bring
+- buy
+- build
+- choose
+- come
+- cost
+- cut
+- do
+- draw
+- drive
+- eat
+- feel
+- find
+- get
+- give
+- go
+- have
+- hear
+- hold
+- keep
+- know
+- leave
+- lead
+- let
+- lie
+- lose
+- make
+- mean
+- meet
+- pay
+- put
+- run
+- say
+- sell
+- send
+- set
+- sit
+- speak
+- spend
+- stand
+- take
+- teach
+- tell
+- think
+- understand
+- wear
+- win
+- write
+
+## use past tense when talking about: 
+- something that happened once in the past:
+  - I graduated from university in 2013.
+  - We went to Tbilisi for grandpa's birthday.
+  - Anne got home very late last night.
+- something that happened several times in the past:
+  - When I was little, I walked to school every day.
+  - We swam a lot while we were on holiday.
+  - They always enjoyed visiting their friends.
+- something that was true for some time in the past:
+  - I lived in Latvia for a year.
+  - He hated being a student.
+  - She played the piano when she was younger.
+
