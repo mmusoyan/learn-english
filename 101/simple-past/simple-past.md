@@ -71,3 +71,32 @@
   - He hated being a student.
   - She played the piano when she was younger.
 
+to be - am, are, is
+to be - was, were
+to do - did
+
+## interrogative simple past
+- Did I graduate from university in 2013? 20-13
+- Did we go to Tbilisi for grandpa's birthday?
+- Did Anne get home very late last night?
+- Did I walk to school every day when I was little?
+- Did we swim a lot while we were on holiday?
+- Were we on holiday when we swam a lot?
+- Did they always enjoy visiting their friends?
+- Did I live in Latvia for a year?
+- Did he hate being a student?
+- Did she play the piano when she was younger?
+
+## negative simple past
+- I didn't graduate from university in 2013.
+- We did not go to Tbilisi for grandpa's birthday.
+- Anne did not get home very late last night.
+- I didn't walk to school every day when I was little.
+- We didn't swin a lot while we were on holiday.
+- We weren't on a holiday when we swam a lot.
+- They never enjoyed visiting their friends.
+- They didn't always enjoy visiting their friends.
+- I didn't always eat meat.
+- I didn't live in Latvia for a year.
+- He didn't hate being a student. не ненавидел
+- She didn't play the piano when she was younger.
